@@ -13,6 +13,7 @@
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
         <Button x:Name="buttonStart" Content="Start" Width="200" Height="30" Grid.Row="2" />
+        <Button x:Name="buttonSzamol" Content="Számolás" Width="200" Height="30" Grid.Row="1" />
 
     </Grid>
 </Window>
